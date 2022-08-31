@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+    <string name="url1">https://images-na.ssl-images-amazon.com/images/I/31diVeBMJFL._SX384_BO1,204,203,200_.jpg</string>
+    <string name="url2">https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780757323881/i-can-believe-in-myself-9780757323881_hr.jpg</string>
+    <string name="url3">https://cdn.downtoearth.org.in/library/large/2021-03-19/0.42809500_1616141965_equinox.jpg</string>
+    <string name="url4">https://t1.pb.ltmcdn.com/es/posts/4/4/9/como_aprender_de_los_errores_del_pasado_3944_orig.jpg</string>
+    <string name="url5">https://res.cloudinary.com/practicaldev/image/fetch/s--cUUQsgqF--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/nq1fsgpp9wdj0yfllmhc.jpg</string>
+    <string name="url6">https://live.staticflickr.com/2618/4132765703_2f543a4fca_b.jpg</string>
+    <string name="url7">http://4.bp.blogspot.com/-q7bS9t4OV8g/UEWc714V2sI/AAAAAAAABvg/2QHd2BPmtw4/s1600/oportunidades%2Bnegocio%2BII.png</string>
+    <string name="url8">https://images.saymedia-content.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTg3MTc1MjY2OTI4MzA2MDYy/courage-inside-me-make-me-more-motivated-and-courage-to-do-unposssible-work-also.jpg</string>
+    <string name="url9">https://qph.cf2.quoracdn.net/main-qimg-e659a41d61985da13aa2ebace4ec476b.webp</string>
+    <string name="url10">https://www.creativefabrica.com/wp-content/uploads/2021/03/15/collect-moments-not-things-svg-jpg-Graphics-9614710-1-580x435.jpg</string>
+
+</resources>
