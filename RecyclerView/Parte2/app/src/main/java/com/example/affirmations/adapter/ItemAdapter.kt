@@ -24,7 +24,7 @@ class ItemAdapter(
         val adapterLayout = LayoutInflater.from(parent.context)
             .inflate(R.layout.list_item, parent, false)
         return ItemViewHolder(adapterLayout)
-    }
+
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dataset[position]
