@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="079b0f20-1498-492e-9624-bc3527a67d2e" name="Changes" comment="">
+    <list default="true" id="c11bb7e0-1881-4153-9839-9f44ab480a3f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../Internet/android-basics-kotlin-mars-photos-app-starter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Internet/android-basics-kotlin-mars-photos-app-starter/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,17 +23,10 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2GEtt63ulkI5FyfqIolnxwwxuMu" />
+  <component name="ProjectId" id="2GFGzAtJWpOMdJgnpMxCx0F51cm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,12 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../android-basics-kotlin-bus-schedule-app-main" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
-      <recent name="database.schedule" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -113,23 +101,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="079b0f20-1498-492e-9624-bc3527a67d2e" name="Changes" comment="" />
-      <created>1665965783180</created>
+      <changelist id="c11bb7e0-1881-4153-9839-9f44ab480a3f" name="Changes" comment="" />
+      <created>1665977177896</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665965783180</updated>
+      <updated>1665977177896</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
